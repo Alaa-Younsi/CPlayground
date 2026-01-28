@@ -1,6 +1,6 @@
 # 💻 CPlayground - Original C Platform
 
-### An Alaa Younsi's Personal Project
+### Alaa Younsi's Personal Project
 
 A feature-rich, single-file C application providing a complete programming learning environment with user management, games, tutorials, and calculators. Built entirely in C with no external dependencies beyond standard libraries.
 
