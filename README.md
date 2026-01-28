@@ -1,5 +1,7 @@
 # 💻 CPlayground - Original C Platform
 
+###An Alaa Younsi's Personal Project
+
 A feature-rich, single-file C application providing a complete programming learning environment with user management, games, tutorials, and calculators. Built entirely in C with no external dependencies beyond standard libraries.
 
 ![CPlayground Terminal Screenshot](https://via.placeholder.com/800x400/000000/00ff00?text=CPlayground+Terminal+Application)
@@ -347,11 +349,7 @@ typedef struct {
 
 ## 🔗 Related Projects
 
-This C application has been ported to multiple platforms:
-
 - **[CPlayground Web Edition](https://github.com/yourusername/cplayground-web)** - Modern React + TypeScript web version
-- **[CPlayground Mobile](https://github.com/yourusername/cplayground-mobile)** - Mobile app version (planned)
-- **[CPlayground API](https://github.com/yourusername/cplayground-api)** - Backend service version (planned)
 
 ## 🤝 Contributing
 
@@ -379,12 +377,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **The C Programming Language** - Brian Kernighan & Dennis Ritchie
 - **SHA-2 Specification** - NIST for the hashing algorithm
 - **Open Source Community** - For inspiration and learning resources
-
-## 📞 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/cplayground-c](https://github.com/yourusername/cplayground-c)
 
 ## 🌟 Show Your Support
 
