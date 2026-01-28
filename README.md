@@ -349,7 +349,7 @@ typedef struct {
 
 ## 🔗 Related Projects
 
-- **[CPlayground Web Edition](https://github.com/yourusername/cplayground-web)** - Modern React + TypeScript web version
+- **[CPlayground Web Edition](https://github.com/Alaa-Younsi/CPlayground-Web-Edition)** - Modern React + TypeScript web version
 
 ## 🤝 Contributing
 
