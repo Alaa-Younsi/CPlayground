@@ -4,7 +4,7 @@
 
 A feature-rich, single-file C application providing a complete programming learning environment with user management, games, tutorials, and calculators. Built entirely in C with no external dependencies beyond standard libraries.
 
-![CPlayground Terminal Screenshot](https://via.placeholder.com/800x400/000000/00ff00?text=CPlayground+Terminal+Application)
+![Homepage](./screenshots/c-screenshot.png)
 
 ## 🎯 About This Project
 
