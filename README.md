@@ -1,4 +1,4 @@
-# 💻 CPlayground - Original C Platformdf
+# 💻 CPlayground - Original C Platform
 
 ### Alaa Younsi's Personal Project
 
